@@ -5,7 +5,8 @@ html {
 
 h1,
 nav,
-#section2 h3 {
+#section2 h3,
+a{
  color: white;
 }
 
@@ -23,13 +24,11 @@ h3 {
   background-image: url("../images/background.png");
 }
 
-#footer a {
-
-}
-
-#footer {
-  font-size: 11px;
+#footer p {
   background-color: dimgray;
+  text-align: left;
+  color: white;
+  font-size: 11px;
 }
 
 h1 {
