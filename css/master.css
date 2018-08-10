@@ -1,0 +1,53 @@
+html {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+h1,
+nav,
+#section2 h3 {
+ color: white;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
+
+#header {
+  background-image: url("../images/background.png");
+}
+
+#section2 {
+  background-image: url("../images/background.png");
+}
+
+#footer a {
+
+}
+
+#footer {
+  font-size: 11px;
+  background-color: dimgray;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+nav {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
